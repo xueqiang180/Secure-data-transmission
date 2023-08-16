@@ -1,0 +1,6 @@
+{
+  "ServerID": "BJ-QiangZai-001",
+  "ClientID": "BJ-ChangPing-TBD",
+  "ShmMaxNode": 20,
+  "ShmKeyPath": "/usr/lib"
+}

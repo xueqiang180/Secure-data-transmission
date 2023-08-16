@@ -1,0 +1,8 @@
+{
+    "ClientID":"BJ-ChangPing-TBD",
+    "ServerID":"BJ-QiangZai-001",
+    "ServerIP":"127.0.0.1",
+    "Port":8989,
+    "ShmMaxNode":1,
+    "ShmKeyPath":"/usr/local"
+}

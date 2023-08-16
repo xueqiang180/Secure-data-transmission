@@ -1,0 +1,9 @@
+{
+  "ServerID": "BJ-QiangZai-001",
+  "dbUser": "root",
+  "dbPasswd": "yxq123456",
+  "dbSID": "192.168.153.129",
+  "Port": 8989,
+  "ShmMaxNode": 20,
+  "ShmKeyPath": "/usr/lib"
+}
